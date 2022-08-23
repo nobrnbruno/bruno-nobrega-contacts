@@ -1,0 +1,81 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#profile, #picture {
+    text-align: center;
+    border-radius: 50%;
+}
+
+#uptop {
+    margin: auto;
+    width: 40%;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#buttons{
+    text-align: center;
+    width: 400px;
+    margin: 30px auto 30px;
+}
+
+#linkedin{
+    width: 72px;
+    margin-right: 80px;
+}
+
+#github{
+    margin-right: 80px;
+    width: 72px;
+}
+
+#resume{
+    width: 72px;
+}
+
+#contact{
+    margin-top: 20px;
+    width: 400px;
+    margin: auto;
+    font-size: 20px;
+}
+
+#email{
+    padding: 10px;
+    margin: 5px;
+}
+
+#mail{
+    width: 30px;
+    height: 25px;
+}
+
+#adress{
+    padding: 15px;
+    padding-bottom: 5px;
+}
+
+#phonenumber{
+    padding: 10px;
+    margin: 5px;
+}
+
+#phone{
+    width: 30px;
+    height: 25px;
+}
+
+#number{
+    padding: 15px;
+}
