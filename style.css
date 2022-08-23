@@ -6,12 +6,14 @@ body{
 
 #profile {
     text-align: center;
+    width: 240px;
+    margin: auto auto auto;
 }
 
 #uptop {
     margin: auto;
     padding-bottom: 20px;
-    width: 40%;
+    width: 60%;
 }
 
 h1 {
